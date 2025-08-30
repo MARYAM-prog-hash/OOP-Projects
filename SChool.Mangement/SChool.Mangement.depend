@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1755412493 source:c:\users\maria\onedrive\desktop\classes\main.cpp
+	<iostream>
+	"Library.h"
+	"Member.h"
+	"Book.h"
+
+1754614468 c:\users\maria\onedrive\desktop\classes\include\person.h
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\person.cpp
+	"PERSON.h"
+	<iostream>
+
+1754612358 c:\users\maria\onedrive\desktop\classes\include\student.h
+	<PERSON.h>
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\staff.cpp
+	"Staff.h"
+	<iostream>
+
+1754613139 c:\users\maria\onedrive\desktop\classes\include\staff.h
+	<PERSON.h>
+	<iostream>
+
+1754612358 c:\users\maria\onedrive\desktop\classes\include\teacher.h
+	<PERSON.h>
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\teacher.cpp
+	"Teacher.h"
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\course.cpp
+	"Course.h"
+	<iostream>
+
+1755041969 c:\users\maria\onedrive\desktop\classes\include\course.h
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\classroom.cpp
+	"Classroom.h"
+	<iostream>
+
+1755042658 c:\users\maria\onedrive\desktop\classes\include\classroom.h
+	<iostream>
+
+1755185918 source:c:\users\maria\onedrive\desktop\classes\src\exam.cpp
+	"Exam.h"
+	<iostream>
+
+1755043536 c:\users\maria\onedrive\desktop\classes\include\exam.h
+	<iostream>
+
+1755122069 c:\users\maria\onedrive\desktop\classes\include\school.h
+	<Student.h>
+	<Teacher.h>
+	<Staff.h>
+	<Classroom.h>
+	<Course.h>
+	<iostream>
+
+1755186270 source:c:\users\maria\onedrive\desktop\classes\src\school.cpp
+	"School.h"
+	<iostream>
+
+1755411419 source:c:\users\maria\onedrive\desktop\classes\src\book.cpp
+	"Book.h"
+
+1755411419 c:\users\maria\onedrive\desktop\classes\include\book.h
+	<iostream>
+
+1755412534 source:c:\users\maria\onedrive\desktop\classes\src\library.cpp
+	"Library.h"
+
+1755412493 c:\users\maria\onedrive\desktop\classes\include\library.h
+	<iostream>
+	"Book.h"
+	"Member.h"
+
+1755411419 c:\users\maria\onedrive\desktop\classes\include\member.h
+	<iostream>
+
+1755411419 source:c:\users\maria\onedrive\desktop\classes\src\member.cpp
+	"Member.h"
+
