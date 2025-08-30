@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1755596623 source:c:\users\maria\onedrive\desktop\library.system\main.cpp
+	<iostream>
+	"Library.h"
+	"Member.h"
+	"Book.h"
+
+1755596624 c:\users\maria\onedrive\desktop\library.system\include\library.h
+	<iostream>
+	"Book.h"
+	"Member.h"
+
+1755596624 c:\users\maria\onedrive\desktop\library.system\include\book.h
+	<iostream>
+
+1755596624 c:\users\maria\onedrive\desktop\library.system\include\member.h
+	<iostream>
+
+1755596623 source:c:\users\maria\onedrive\desktop\library.system\src\book.cpp
+	"Book.h"
+
+1755596624 source:c:\users\maria\onedrive\desktop\library.system\src\library.cpp
+	"Library.h"
+
+1755596623 source:c:\users\maria\onedrive\desktop\library.system\src\member.cpp
+	"Member.h"
+
